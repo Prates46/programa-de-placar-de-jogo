@@ -1,15 +1,4 @@
 # programa-de-placar-de-jogo
-inicio = int (input("informe o primeiro numero: "))
-fim = int (input(informe o numero final:" ))
-salto = int(input("informe o saldo"))
-texto = "calculo:"
-soma = 0
-for numero in range(inicio , fim , salto):
-    soma = soma + numero
-    texto = 
-
-
-
 
 time1= int(input("sao paulo: "))
 time2= int(input("GAIVOTAS: "))
